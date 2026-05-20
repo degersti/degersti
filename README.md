@@ -14,48 +14,33 @@
 </p>
 
 ###
-##  Developer Akademie
 
-<table >
-  <tr>
-    <td><img src="./assets/da_logo.png" width="40" alt="Mentoring Icon" /></td>
-    <td style="padding-left: 12px;">
-      <span style="color: white; font-weight: bold;">Head of Mentoring</span><br />
-      <span style="color: white;">Developer Akademie</span>
-    </td>
-  </tr>
-</table>
-
-## Preferred Tech Stack
-
-<h3> Frontend</h3>
+## Engineering Toolbox
+### Industrial Automation / Control
 <p align="left">
-  <img src="./assets/skill_icons/html.png" height="32" alt="HTML" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/ts.png" height="32" alt="TypeScript" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/Angular_new.png" height="32" alt="Angular" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/firebase.png" height="32" alt="Firebase" />
+ Beckhoff TwinCAT 3 · IEC 61131-3 · PLC Systems · Commissioning · Control Engineering
 </p>
 
-<h3> Backend</h3>
+### Embedded Systems
 <p align="left">
-  <img src="./assets/skill_icons/rest_api.png" height="32" alt="REST API" />
-  <img src="./assets/skill_icons/Python.png" height="32" alt="Python" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/Django.png" height="32" alt="Django" style="margin-right:8px;" />
+  Embedded C · C/C++ · Python · Linux · ARM
 </p>
 
-<h3> Dev-Tools</h3>
+### Communication
 <p align="left">
-  <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
-  <img src="./assets/skill_icons/Figma.png" height="32" alt="Figma" />
-  <img src="./assets/skill_icons/Jira.png" height="32" alt="Jira" />
-</p>
+  CAN Bus · Modbus · I2C · UART · SPI · MQTT · TCP/IP · Serial Communication
+</p> 
 
-###
+### Tools
+<p align="left">
+  Git · Eclipse · Wireshark · Oscilloscope · Logic Analyzer
 
+</p> 
 
-
+### Electrical & System Engineering
+<p align="left">
+  Electrical Troubleshooting · Distributed Systems · Diagnostics · System Integration · Technical Documentation
+</p> 
 ##  GitHub Stats
 
 <div align="center" style="margin-bottom: 48px;">
@@ -65,11 +50,6 @@
 
 ###
 
-##  SNAKE!
-
-<img src="https://raw.githubusercontent.com/KevinKovacDev/KevinKovacDev/output/snake.svg" alt="Snake animation" style="margin-bottom: 48px;" />
-
-###
 
 ##  Contact
 
