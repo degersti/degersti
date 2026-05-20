@@ -6,13 +6,11 @@
 
 
 <p align="center">
-  👋 Hi! I'm Markus — a Mechatronics Engineer (M.Sc.) focused on industrial automation, embedded systems and marine technology.
+  👋 Hi! I'm Markus — a Mechatronics Engineer (M.Sc.) with experience in industrial automation, embedded systems and electrical systems.
   <br /><br />
-  My background combines PLC programming, commissioning and troubleshooting of complex electrical systems in safety-critical environments with practical offshore sailing and onboard systems experience.
+  My background combines PLC programming, commissioning and troubleshooting of complex electrical systems in safety-critical environments with practical on-site engineering experience.
   <br /><br />
-  I enjoy building reliable technical systems — from industrial automation and embedded control solutions to marine electrification and onboard energy systems.
-  <br /><br />
-  Currently interested in automation, embedded engineering, sustainable propulsion technologies and offshore systems.
+  I enjoy working on demanding technical systems — from embedded control solutions to industrial automation and commissioning.
 </p>
 
 ###
