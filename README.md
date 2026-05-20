@@ -12,7 +12,7 @@
   <br /><br />
   Currently interested in automation, embedded engineering, sustainable propulsion technologies and offshore systems.
 </p>
-<!------------------------------------------ FROM github.com/KevinKovacDev
+
 ###
 ##  Developer Akademie
 
@@ -78,4 +78,4 @@
   </a>
 
 ### 
---------------------------------!>
+
