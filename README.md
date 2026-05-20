@@ -1,16 +1,81 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.png" alt="Header" width="100%" />
+</p>
 
-<!--
-**degersti/degersti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  👋 Hi! I'm Markus — a Mechatronics Engineer (M.Sc.) focused on industrial automation, embedded systems and marine technology.
+  <br /><br />
+  My background combines PLC programming, commissioning and troubleshooting of complex electrical systems in safety-critical environments with practical offshore sailing and onboard systems experience.
+  <br /><br />
+  I enjoy building reliable technical systems — from industrial automation and embedded control solutions to marine electrification and onboard energy systems.
+  <br /><br />
+  Currently interested in automation, embedded engineering, sustainable propulsion technologies and offshore systems.
+</p>
+<!------------------------------------------ FROM github.com/KevinKovacDev
+###
+##  Developer Akademie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table >
+  <tr>
+    <td><img src="./assets/da_logo.png" width="40" alt="Mentoring Icon" /></td>
+    <td style="padding-left: 12px;">
+      <span style="color: white; font-weight: bold;">Head of Mentoring</span><br />
+      <span style="color: white;">Developer Akademie</span>
+    </td>
+  </tr>
+</table>
+
+## Preferred Tech Stack
+
+<h3> Frontend</h3>
+<p align="left">
+  <img src="./assets/skill_icons/html.png" height="32" alt="HTML" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/ts.png" height="32" alt="TypeScript" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/Angular_new.png" height="32" alt="Angular" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/firebase.png" height="32" alt="Firebase" />
+</p>
+
+<h3> Backend</h3>
+<p align="left">
+  <img src="./assets/skill_icons/rest_api.png" height="32" alt="REST API" />
+  <img src="./assets/skill_icons/Python.png" height="32" alt="Python" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/Django.png" height="32" alt="Django" style="margin-right:8px;" />
+</p>
+
+<h3> Dev-Tools</h3>
+<p align="left">
+  <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
+  <img src="./assets/skill_icons/Figma.png" height="32" alt="Figma" />
+  <img src="./assets/skill_icons/Jira.png" height="32" alt="Jira" />
+</p>
+
+###
+
+
+
+##  GitHub Stats
+
+<div align="center" style="margin-bottom: 48px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinKovacDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinKovacDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+##  SNAKE!
+
+<img src="https://raw.githubusercontent.com/KevinKovacDev/KevinKovacDev/output/snake.svg" alt="Snake animation" style="margin-bottom: 48px;" />
+
+###
+
+##  Contact
+
+  <a href="https://de.linkedin.com/in/kevin-kovac-8b78721a9" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
+    <img src="./assets/icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
+  </a>
+
+### 
+--------------------------------!>
